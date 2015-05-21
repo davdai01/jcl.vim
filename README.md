@@ -1,4 +1,5 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=423
+Forked from vim-scripts/jcl.vim. 
+Changed the folder structure to /ftdetect and /syntax instead of /plugin
 
 Mainframe JCL language.
 Enphasize Conditional parts of jcl
